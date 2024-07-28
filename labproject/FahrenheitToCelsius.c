@@ -1,14 +1,13 @@
 
-// #include <stdio.h>
-// #include <stdlib.h>
+ #include <stdio.h>
+ #include <stdlib.h>
 
-//  int main() {
-//   system("clear");
-//   float C, F;
-//   printf("Enter fahrenheit temperature::  ");
-//   scanf("%f", &F);
-//   C = (F - 32) * 5 / 9;
-//   printf("Your celsius value is = %f\n", C);
-//   return 0;
-//   getch();
-// }
+  int main() {
+  system("clear");
+  float C, F;
+  printf("Enter fahrenheit temperature::  ");
+  scanf("%f", &F);
+  C = (F - 32) * 5 / 9;
+  printf("Your celsius value is = %f\n", C);   return 0;
+   getch();
+}
