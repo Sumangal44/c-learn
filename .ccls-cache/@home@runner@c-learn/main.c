@@ -11,6 +11,6 @@ int main() {
     C = (F - 32) * 5 / 9;
     printf("Your celsius value is = %f\n", C);
     return 0;  
-    getch();
+    getch ();
 }
     
